@@ -1,0 +1,180 @@
+ ---
+title: İlk Yatırıma %100 Bonus, 3 000 TRY’ye kadar | Yohoho.bet
+metadata:
+    description: Yohoho.bet’e kaydolun, ilk yatırımınızı yapın ve 3 000 TRY’ye kadar %100 bonus kazanın. Kuralları, şartları ve devir gereksinimlerini öğrenin.
+
+
+---
+
+<section class="cover-background pb-0" style="background-image: url('{{ media['user://themes/quark/jpg/bg3.jpg'].url()|raw }}');">
+    <div class="container mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-xl-7 col-lg-7 col-md-12 last-paragraph-no-margin order-lg-1 order-2 appear anime-child anime-complete">
+            <h1 >Bonus</h1>
+              <h2 >İlk Yatırıma %100 Bonus, 3 000 TRY’ye kadar</h2><hr>
+			  <p><strong>Yohoho.bet</strong>’te hesap açın ve ilk yatırımınızı ikiye katlayın&nbsp;&mdash; 3 000 TRY’ye kadar!</p><br/>
+			   	<br/><br/><br/>
+        </div>
+        <div class="col-xl-5 col-lg-5 col-md-12 order-lg-2 order-1 md-mb-15px md-ps-70px sm-ps-40px appear anime-child anime-complete" > 
+            <img alt="" src="{{ url('theme://png/bonus4.png') }}" />
+        </div>	 
+    </div>    
+</div>         
+</section>
+
+ 
+
+
+<section class="cover-background" style="background-image: url('{{ media['user://themes/quark/jpg/bg-3-3.jpg'].url()|raw }}');">
+ 
+<div class="container mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
+            <h2>YoHoHo Bonusu Nasıl Alınır?</h2>
+        </div>		
+    </div>	
+</div>
+ 
+<div class="container mt-2 mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-xl-7 col-lg-7 col-md-12 last-paragraph-no-margin order-lg-1 order-2 appear anime-child anime-complete"  >               		  		  
+		              <div class="mb-40px sm-mb-30px" style="">	
+			<ul class="p-0 mb-20px mt-15px list-style-01" style="">
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Yohoho.bet sitesine kaydolun.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Profilinizdeki tüm kişisel bilgileri eksiksiz doldurun.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bakiyenize 3 000 TRY’ye (veya eşdeğer tutarda başka bir para biriminde) kadar para yatırın.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bonus, yatırımı gerçekleştirdikten hemen sonra otomatik olarak tanımlanır.
+                </li>				
+            </ul>
+            </div>		   								
+        </div>
+    </div>
+</div> 
+
+<div class="container mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
+            <h2>Kurallar ve Şartlar</h2>
+        </div>		
+    </div>	
+</div>
+
+<div class="container mt-2 mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-xl-7 col-lg-7 col-md-12 last-paragraph-no-margin order-lg-1 order-2 appear anime-child anime-complete"  >               		  		  
+		              <div class="mb-40px sm-mb-30px" style="">	
+			<ul class="p-0 mb-20px mt-15px list-style-01" style="">
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Tek oyuncu — tek bonus. Bonusa hak kazanmak için minimum yatırım 30 TRY’dir.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Yatırım yapmadan önce, hesap ayarlarında veya yatırım sayfasında “Bonus kampanyalarına katıl” seçeneğini işaretleyin. Profildeki tüm alanlar doldurulmuş ve telefon numarası doğrulanmışsa bonus otomatik olarak etkinleşir.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Parayı bonus bakiyesine aktarın ve toplam bonus tutarını 5&nbsp;kat olacak şekilde kombine bahislerle oynayın. Her kombinede en az 3 karşılaşma bulunmalı ve bu karşılaşmaların oranı en az 1,40 olmalıdır. Tüm karşılaşmaların başlangıç tarihi, teklifin geçerlilik süresini aşmamalıdır.
+                </li>
+				               <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bir bahsin devir (çevrim) için sayılması, ancak tamamı sonuçlandıktan sonra mümkündür.
+                </li>
+				
+				
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Şartlar tamamlanana kadar para çekimi yapılamaz (istisnalar için bkz. “Ek Bilgiler”).
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bonus çevrilmeden önce bonus veya bonusla elde edilen kazançlar çekilirse iptal edilir.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bu teklif, diğer kampanya ve özel teklifler ile birleştirilemez.
+                </li>
+				               <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Yohoho.bet, kampanyayı önceden haber vermeksizin değiştirme, durdurma veya iptal etme ya da katılımı sınırlama hakkını saklı tutar.
+                </li>				
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Şüpheli veya adil olmayan oyun stratejileri tespit edilirse bonus iptal edilebilir.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Her bonus; tek oyuncu, tek aile, tek adres, ortak bilgisayar/IP ve aynı hesap bilgileri (e-posta, banka hesabı, kart, ödeme sistemi) için geçerlidir. Kuralların ihlali hesabın kapatılmasına yol açar.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Talep edilmesi hâlinde oyuncu kimlik doğrulaması (KYC) yapmalıdır. Belgelerin sunulmaması hâlinde bonus ve kazançlar iptal edilir.
+                </li>
+				               <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Sahtekârlık veya kara para aklama şüphesinde Yohoho.bet hesabı kapatma ve bakiyeyi dondurma hakkına sahiptir.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Çevrilen bonus, kalan bonus bakiyesi tutarında ancak bonus miktarını aşmayacak şekilde ana bakiyeye aktarılır. Çevrimden sonra bonus bakiyesinde minimum bahis tutarından az para kalırsa bonus kaybedilmiş sayılır.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Handikap ve toplam bahisleri ile geri ödemesi yapılan (push) bahisler çevrime dâhil edilmez.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Kripto para yatırımları için tüm bonuslar geçersizdir.
+                </li>
+            </ul>
+            </div>		   								
+        </div>
+    </div>
+</div>
+
+
+<div class="container mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
+            <p>Bu şartlar <strong>Yohoho.bet</strong> genel kurallarının bir parçasıdır.</p>
+
+        </div>		
+    </div>	
+</div>
+
+<div class="container mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
+            <h3>Ek Bilgiler</h3>
+        </div>		
+    </div>	
+</div>
+
+<div class="container mt-2 mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-xl-7 col-lg-7 col-md-12 last-paragraph-no-margin order-lg-1 order-2 appear anime-child anime-complete"  >               		  		  
+		              <div class="mb-40px sm-mb-30px" style="">	
+			<ul class="p-0 mb-20px mt-15px list-style-01" style="">
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Çevrim sırasında, bakiyede bonusun iki katından az olmamak koşuluyla toplam yatırımlar tutarına kadar para çekilebilir (bonus ve kazançlar çevrim tamamlanana kadar çekilemez).
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bakiye bonus miktarının altına düşerse ve hesapta sonuçlanmamış bahis varsa para çekimi mümkün değildir.
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bonus, kayıt tarihinden itibaren 30 gün boyunca etkindir; bu sürenin sonunda kullanılmayan bonus ve bu bonusla elde edilen kazançlar iptal edilir.
+                </li>
+				               <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div>Bonustan yararlanmak için profilinizde “Bonus kampanyalarına katıl” seçeneğini işaretlemeniz gerekir.
+                </li>
+            </ul>
+            </div>		   								
+        </div>
+    </div>
+</div>
+
+<div class="container mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
+            <p>Oyuncu, bakiyedeki tutar alınan bonusu aşıyorsa bonustan vazgeçme hakkına sahiptir. Bu durumda tüm yatırım bakiyesi çekilebilir; bonus ve bonusla elde edilen kazançlar iptal edilir.</p>
+
+        </div>		
+    </div>	
+</div>
+
+
+
+ 
+</section>
