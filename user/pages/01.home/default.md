@@ -1,61 +1,45 @@
 ---
-title: YoHoHo bahis şirketi incelemesi - Spor bahisleri, casino ve e-spor bahisleri YoHoHo.bet'te
+title: YoHoHo.bet — makabagong bookmaker na may pusong kasino
 metadata:
-    description: YoHoHo.bet, spor bahisleri, casino oyunları, slotlar ve e-spor etkinlikleri sunuyor. Platformun avantajları, bahis seçenekleri ve partner programı hakkında bilgi edinin.
+    description: Pagsusuri ng YoHoHo.bet: mga linya ng taya, Live casino, libu-libong slot, esports, mobile app at kapaki-pakinabang na affiliate program.
 	
 	
----
+--- 
  
-<section class="cover-background pb-0" style="background-image: url('{{ media['user://themes/quark/jpg/bg7.jpg'].url()|raw }}');">
+<section class="cover-background pb-0" style="background-image: url('{{ media['user://themes/quark/jpg/bg-11.jpg'].url()|raw }}');">
 <div class="container pb-8">
     <div class="row align-items-center justify-content-center">
         <div class="col-xl-7 col-lg-7 col-md-12 last-paragraph-no-margin order-lg-1 order-2 appear anime-child anime-complete">
 		
-            <h1 >YoHoHo İncelemesi</h1>
-              <h2 >YoHoHo.bet'te Spor, Casino ve E-Spor Bahisleri</h2>
+            <h1 >YoHoHo.bet</h1>
+              <h2 >kapag ang pagtaya ay nagiging pakikipagsapalaran</h2>
 			  
 			  <div class="header-button">
-                    <a href="https://yohoho-669762.top/" class="btn btn-small btn-base-color btn-rounded btn-box-shadow btn-switch-text">
+                    <a href="https://yohoho.bet/" class="btn btn-small btn-base-color btn-rounded btn-box-shadow btn-switch-text">
                         <span>
-                            <span class="btn-double-text" data-text="Şimdi!">Ortak olun</span>
+                            <span class="btn-double-text" data-text="ngayon na!">pumunta ka</span>
                         </span>
-                    </a><br/><br/> 
+                    </a><br/><br/><br/><br/>  
                 </div>
         </div>
 		
 		
         <div class="col-xl-5 col-lg-5 col-md-12 order-lg-2 order-1 md-mb-15px md-ps-70px sm-ps-40px appear anime-child anime-complete" > 
-            <!---<img alt="" src="{{ url('theme://png/cat7.png') }}" />--->			
+           		
         </div>	
     </div> 	
 </div>
 </section> 
 
-<section class="cover-background" style="background-image: url('{{ media['user://themes/quark/jpg/bg3.jpg'].url()|raw }}');">
- 
-    <div class="position-absolute left-minus-70px mt-2 d-none d-xl-inline-block" data-parallax-liquid="true" data-parallax-transition="2" data-parallax-position="top">
-        <img src="{{ url('theme://png/b09f93f770755bc93454aba4badbc3679015a229-ball2.png') }}" alt="" data-bottom-top="transform: rotate(-30deg)" data-top-bottom="transform:rotate(10deg)">
-    </div>
- 	
-    <div class="position-absolute mt-10 right-80px xxl-right-0px d-none d-xl-inline-block" data-parallax-liquid="true" data-parallax-transition="2" data-parallax-position="bottom">
-        <img src="{{ url('theme://png/b5429c646decbd0a2f8e5bb921b534dd90ed3b9d-ball1.png') }}" alt="" data-bottom-top="transform: rotate(-20deg)" data-top-bottom="transform:rotate(30deg)">
-    </div>
-<!---			
-    <div class="position-absolute bottom-0 xl-bottom-120px left-0 ms-12 xxl-ms-5 mb-25 xxl-mb-30 d-none d-xl-inline-block" data-parallax-liquid="true" data-parallax-transition="2" data-parallax-position="bottom">
-        <img src="{{ url('theme://png/b5429c646decbd0a2f8e5bb921b534dd90ed3b9d-ball1.png') }}" alt="" data-bottom-top="transform: rotate(-20deg)" data-top-bottom="transform:rotate(20deg)">
-	</div> 
---->
-
+<section class="cover-background" style="background-color: #0D1517;">
 <div class="container mb-2">
     <div class="row align-items-center justify-content-center">
         <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
-            <h2>YoHoHo Bet'te Spor Bahisleri</h2>
-			<p class="w-95 xl-w-100">YoHoHo, kullanıcılarına geniş bir spor etkinlikleri yelpazesinde bahis yapma imkânı sunmaktadır. Sitede futbol, tenis, basketbol, buz hokeyi ve daha birçok popüler spor dalı üzerine bahis yapılabilir.</p> 
+			<p class="w-95 xl-w-100">Bumabalik ang YoHoHo.bet sa merkado na may layuning pagsama-samahin ang lahat ng popular na anyo ng sugal sa iisang bubong. Sa loob ng ilang taon, lumago ito bilang pandaigdigang komunidad ng mga bettor at gambler, na nag-aalok ng kompetitibong odds at kamangha-manghang seleksiyon ng mga laro.</p> 
 			
         </div>		
     </div>	
 </div>
-
 <div class="container-fluid ps-9 pe-9 xxl-ps-2 xxl-pe-2 sm-ps-15px sm-pe-15px mb-2">
     <div class="row row-cols-1 row-cols-md-2 row-cols-xxl-4 justify-content-center appear anime-child  ">
         <!-- start features box item -->
@@ -63,267 +47,191 @@ metadata:
             <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                 
                 <div class="feature-box-content">
-                    <span class="d-inline-block fs-18 text-white fw-600 text-uppercase">Geniş bahis hattı</span><hr>
-                    <p class="fs-15 lh-22">Sitede, uluslararası şampiyonalar ve turnuvalar da dahil olmak üzere ana spor etkinliklerine bahis yapılabilir.</p>
+				<h2 class="text-center" style="color: #0D1517;">Pre-match at Live na taya</h2>
+                    <span class="d-inline-block fs-18 text-white fw-600 text-uppercase" >Sinasaklaw ng linya ang higit 40 sport. Sa pre-match, puwede kang tumaya sa resulta, double chance, handicap, total at kombinadong market. Ang LIVE center ay may interactive graph at auto cash-out.</span>
                 </div>
                 <div class="feature-box-overlay bg-gradient-black-bottom-transparent"></div>
             </div>  
-        </div>
-        <!-- end features box item -->                    
-        <!-- start features box item -->
-        <div class="col icon-with-text-style-02 transition-inner-all xl-mb-30px" style="">
-            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                 
-                <div class="feature-box-content">
-                    <span class="d-inline-block fs-18 text-white fw-600 text-uppercase">Canlı bahisler (Live)</span><hr>
-                    <p class="fs-15 lh-22">Maçlar sırasında bahis yapma imkânı, güncel oranlarla bahis yapmanıza olanak tanır.</p> 
-                </div>
-                <div class="feature-box-overlay bg-gradient-black-bottom-transparent"></div>
-            </div>  
-        </div>
-        <!-- end features box item -->        
-        <!-- start features box item -->
-        <div class="col icon-with-text-style-02 transition-inner-all xl-mb-30px" style="">
-            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                 
-                <div class="feature-box-content">
-                    <span class="d-inline-block fs-18 text-white fw-600 text-uppercase">Yüksek oranlar</span><hr>
-                    <p class="fs-15 lh-22">Şirket, bahisleri daha kârlı hale getiren rekabetçi oranlar sunmaktadır.</p>
-                </div>
-                <div class="feature-box-overlay bg-gradient-black-bottom-transparent"></div>
-            </div>  
-        </div>
-	
-    </div>
-</div>
-<div class="container mb-2">
-    <div class="row align-items-center justify-content-center">
-        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
-            <h2>YoHoHo Bahis Hattı</h2>
-			<p class="w-95 xl-w-100">YoHoHo.bet, popüler spor etkinliklerinin tümünü kapsayan çeşitli bahis hatları sunmaktadır. Bahis hatları, klasik galibiyet bahislerinin yanı sıra, doğru skor, gol sayısı, kartlar ve diğer olaylar gibi daha karmaşık seçenekleri de içerebilir.</p> 
-			
-        </div>		
-    </div>	
-</div>
-</section>
-
-<section class="cover-background" style="background-image: url('{{ media['user://themes/quark/jpg/bg8.jpg'].url()|raw }}');">
-
-
-<div class="container">
-    <div class="row justify-content-center align-items-xl-center align-items-center lg-mb-5 sm-mb-0">
-        <div class="col-lg-5 col-md-12 md-mb-50px position-relative" >          
-            <img alt="" src="{{ url('theme://png/cat.png') }}" />                          
-        </div>
-        <div class="col-xl-6 col-lg-7 col-md-12 offset-xl-1">
-		<span class="text-white fw-600 mb-15px text-uppercase d-inline-block fs-14 ls-1px border-bottom border-color-transparent-white-very-light" style="">Kumarhane</span>
-            <h2 class="fw-800 mb-15px lg-w-80 md-w-100" style="">YoHoHo.Bet'te Online Casino</h2>   
-<p>
-Şirketin ana alanlarından biri olan <strong>online casino</strong>, oyunculara rulet, blackjack, bakara ve diğer kart oyunları dahil olmak üzere çeşitli şans oyunları sunmaktadır.
-</p>			
-            <div class="mb-40px sm-mb-30px" style="">             
-                <div class="icon-with-text-style-08 mb-10px">
-                    <div class="feature-box feature-box-left-icon-middle">
-                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px  rounded-circle me-15px">
-                            <i class="fa-solid fa-check fs-15 text-base-color"></i> 
-                        </div>
-                        <div class="feature-box-content"> 
-                            <span><strong>Rulet</strong>: Sayı, renk veya grup numaralarına bahis yapabileceğiniz klasik bir oyun.</span>
-                        </div>
-                    </div>
-                </div>              
-                <div class="icon-with-text-style-08 mb-10px">
-                    <div class="feature-box feature-box-left-icon-middle">
-                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px  rounded-circle me-15px">
-                            <i class="fa-solid fa-check fs-15 text-base-color"></i> 
-                        </div>
-                        <div class="feature-box-content"> 
-                            <span><strong>Blackjack</strong>: Hedefin 21'e en yakın olan sayıyı elde etmek olduğu popüler bir kart oyunu.</span>
-                        </div>
-                    </div>
-                </div>                 
-                <div class="icon-with-text-style-08 mb-10px">
-                    <div class="feature-box feature-box-left-icon-middle">
-                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px  rounded-circle me-15px">
-                            <i class="fa-solid fa-check fs-15 text-base-color"></i> 
-                        </div>
-                        <div class="feature-box-content"> 
-                            <span><strong>Bakara</strong>: Oyuncunun, bankacının veya berabere olan bahislerin üzerine bahis yapabileceğiniz bir kart oyunu.</span>
-                        </div>
-                    </div>
-                </div>  
-<p>Geleneksel oyunların yanı sıra, YoHoHo casino'sunda gerçek krupiyelerle canlı oyunlar da bulunmaktadır ve bu, gerçek bir casino atmosferi yaratmaktadır.</p> 				
-            </div>
         </div>
     </div>
 </div>
-
-</section> 
-
-<section class="cover-background" style="background-image: url('{{ media['user://themes/quark/jpg/bg3.jpg'].url()|raw }}');">
- 
-
-<div class="container mb-2">
+<div class="container mt-2 mb-2">
     <div class="row align-items-center justify-content-center">
-        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
-            <h2>YoHoHo.bet'te Online E-Spor Bahisleri</h2>
-			<p class="w-95 xl-w-100">Son yıllarda e-spor, bahis dünyasında hızla büyüyen bir segment haline gelmiştir ve YoHoHo, e-spor etkinliklerine bahis yapma imkânı sunarak bu trende ayak uydurmuştur.</p> 
-			<p class="w-95 xl-w-100">Platformda şu oyunlara bahis yapabilirsiniz:</p>
-			
-        </div>		
-    </div>	
+        <div class="col-xl-7 col-lg-7 col-md-12 last-paragraph-no-margin order-lg-1 order-2 appear anime-child anime-complete"  >            		  		  
+		              <div class="mb-40px sm-mb-30px" style="">	
+					  <h2 class="text-center">Odds at limitasyon</h2>
+			<ul class="p-0 mb-20px mt-15px list-style-01" style="">
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div><p style="color: #ffffff;">Karaniwang margin — 4 % sa pre-match at 6 % sa live.</p>
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div><p style="color: #ffffff;">Max na payout bawat slip — hanggang 1 000 000 $.</p>
+                </li>  
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div><p style="color: #ffffff;">Micro bet mula 0,10 $ para sa mga baguhan.</p>
+                </li>				
+            </ul>
+            </div>	
+			<div class="header-button text-center" >
+                    <a href="https://yohoho.bet/" class="btn btn-small btn-base-color btn-rounded btn-box-shadow btn-switch-text">
+                        <span>
+                            <span class="btn-double-text" data-text="ngayon na!">pumunta ka</span>
+                        </span>
+                    </a><br/><br/> 
+                </div>			
+        </div>
+    </div>
 </div>
-
 <div class="container-fluid ps-9 pe-9 xxl-ps-2 xxl-pe-2 sm-ps-15px sm-pe-15px mb-2">
     <div class="row row-cols-1 row-cols-md-2 row-cols-xxl-4 justify-content-center appear anime-child  ">
         <!-- start features box item -->
         <div class="col icon-with-text-style-02 transition-inner-all xl-mb-30px" style="">
-            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">                
+            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">
+                
                 <div class="feature-box-content">
-				<img alt="" style="display: block; margin: 0 auto;" src="{{ url('theme://png/dota2.png') }}" /><hr> 
-                    <div style="text-align: center;"><span class="d-inline-block fs-18 text-white fw-600 text-uppercase" >Dota 2</span></div>
-                     
+				<h2 class="text-center" style="color: #0D1517;">Live & RNG casino</h2>
+                    <span class="d-inline-block fs-18 text-white fw-600 text-uppercase" >Kabilang sa seksiyong ito ang European at American roulette, infinite blackjack, poker show at game-quest. Mga provider: Evolution, Pragmatic Live, BetGames.</span>
                 </div>
                 <div class="feature-box-overlay bg-gradient-black-bottom-transparent"></div>
             </div>  
         </div>
-        <!-- end features box item -->                    
-        <!-- start features box item -->
-        <div class="col icon-with-text-style-02 transition-inner-all xl-mb-30px" style="">
-            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">                
-                <div class="feature-box-content">
-				<img alt="" style="display: block; margin: 0 auto;" src="{{ url('theme://png/ll.png') }}" /><hr>  
-                    <div style="text-align: center;"><span class="d-inline-block fs-18 text-white fw-600 text-uppercase" >League of Legends</span></div>
-                     
-                </div>
-                <div class="feature-box-overlay bg-gradient-black-bottom-transparent"></div>
-            </div>  
-        </div>
-		        <div class="col icon-with-text-style-02 transition-inner-all xl-mb-30px" style="">
-            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">                
-                <div class="feature-box-content">
-				<img alt="" style="display: block; margin: 0 auto;" src="{{ url('theme://png/overwatch.png') }}" /> <hr> 
-                    <div style="text-align: center;"><span class="d-inline-block fs-18 text-white fw-600 text-uppercase" >Overwatch</span></div>
-                     
-                </div>
-                <div class="feature-box-overlay bg-gradient-black-bottom-transparent"></div>
-            </div>  
-        </div>	
     </div>
-	</div>
-<div class="container-fluid ps-9 pe-9 xxl-ps-2 xxl-pe-2 sm-ps-15px sm-pe-15px mb-2">	
-	<div class="container-fluid ps-9 pe-9 xxl-ps-2 xxl-pe-2 sm-ps-15px sm-pe-15px mb-2">
-	    <div class="row row-cols-1 row-cols-md-2 row-cols-xxl-4 justify-content-center appear anime-child  ">
+</div>
+<div class="container mt-2 mb-2">
+    <div class="row align-items-center justify-content-center">
+        <div class="col-xl-7 col-lg-7 col-md-12 last-paragraph-no-margin order-lg-1 order-2 appear anime-child anime-complete"  >            		  		  
+		              <div class="mb-40px sm-mb-30px" style="">	
+					  <h2 class="text-center">Mundo ng slot</h2>
+			<ul class="p-0 mb-20px mt-15px list-style-01" style="">
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div><p style="color: #ffffff;">4 000 + titulo mula NetEnt, Pragmatic Play, Play’n GO.</p>
+                </li>
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div><p style="color: #ffffff;">Mga slot na may Megaways™ at Buy-Bonus.</p>
+                </li>  
+                <li class="border-color-transparent-white-light text-white d-flex align-items-center pt-20px pb-20px">
+                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px rounded-circle  me-20px text-center d-flex align-items-center justify-content-center flex-shrink-0"><i class="fa-solid fa-check fs-14 text-base-color"></i></div><p style="color: #ffffff;">Lingguhang paligsahan na may 50 000 $ prize pool.</p>
+                </li>				
+            </ul>
+            </div>	
+			<div class="header-button text-center" >
+                    <a href="https://yohoho.bet/" class="btn btn-small btn-base-color btn-rounded btn-box-shadow btn-switch-text">
+                        <span>
+                            <span class="btn-double-text" data-text="ngayon na!">pumunta ka</span>
+                        </span>
+                    </a><br/><br/> 
+                </div>			
+        </div>
+    </div>
+</div>
+<div class="container-fluid ps-9 pe-9 xxl-ps-2 xxl-pe-2 sm-ps-15px sm-pe-15px mb-2">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-xxl-4 justify-content-center appear anime-child  ">
         <!-- start features box item -->
         <div class="col icon-with-text-style-02 transition-inner-all xl-mb-30px" style="">
-            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">                
+            <div class="feature-box feature-box-left-icon-middle bg-medium-gray-transparent border-radius-10px p-9 overflow-hidden last-paragraph-no-margin box-shadow-quadruple-large box-shadow-quadruple-large-hover">
+                
                 <div class="feature-box-content">
-				<img alt="" style="display: block; margin: 0 auto;" src="{{ url('theme://png/cs.png') }}" /> <hr> 
-                    <div style="text-align: center;"><span class="d-inline-block fs-18 text-white fw-600 text-uppercase" >Counter-Strike: Global Offensive</span></div>
-                     
+				<h2 class="text-center" style="color: #0D1517;">Mga merkado sa esports</h2>
+                    <span class="d-inline-block fs-18 text-white fw-600 text-uppercase" >Naglalathala ang YoHoHo ng linya para sa CS2 at Dota 2 majors, Valorant VCT, at LoL regional leagues. Available ang mapa, pistol round, kills at ekonomiya.</span>
                 </div>
                 <div class="feature-box-overlay bg-gradient-black-bottom-transparent"></div>
             </div>  
         </div>
-        <!-- end features box item -->                    
-        <!-- start features box item -->
-    </div></div>
+    </div>
 </div>
-
-
-<div class="container mb-2">
-    <div class="row align-items-center justify-content-center">
-        <div class="col-md-12 last-paragraph-no-margin order-lg-1 order-2 text-center">
-			<p class="w-95 xl-w-100">YoHoHo, sadece büyük turnuvalar için değil, daha az bilinen etkinlikler ve ligler için de bahis seçenekleri sunmaktadır, bu da e-spor meraklıları için mükemmel bir tercih olmaktadır.</p> 
-        </div>		
-    </div>	
-</div>
-
 </section>
 
-<section class="cover-background" style="background-image: url('{{ media['user://themes/quark/jpg/bg8.jpg'].url()|raw }}');">
-
+<section class="cover-background" style="background-color: #ff9800;">
 <div class="container">
     <div class="row justify-content-center align-items-xl-center align-items-center lg-mb-5 sm-mb-0">
         <div class="col-lg-5 col-md-12 md-mb-50px position-relative" >          
-            <img alt="" src="{{ url('theme://png/cat8.png') }}" />                          
+            <img alt="" src="{{ url('theme://png/pirat.png') }}" />                          
         </div>
         <div class="col-xl-6 col-lg-7 col-md-12 offset-xl-1">
-		<span class="text-white fw-600 mb-15px text-uppercase d-inline-block fs-14 ls-1px border-bottom border-color-transparent-white-very-light" style="">Yuvalar</span>
-            <h2 class="fw-800 mb-15px lg-w-80 md-w-100" style="">YoHoHoBet'te Online Slotlar Oynama</h2>   
-<p>
-Slotlar, YoHoHo sitesindeki en popüler oyun kategorilerinden biridir. Kullanıcılar, ilginç temalar, bonuslar ve büyük kazançlar sunan çeşitli video slot oyunlarıyla eğlenebilirler. Tüm oyunlar, şeffaf ve adil şartlar sunmakta ve büyük jackpotlar kazanma fırsatı sağlamaktadır.
-</p>			
+            <h2 class="fw-800 mb-15px lg-w-80 md-w-100" style="color: #0D1517;">YoHoHo sa iyong bulsa</h2>   
+<p style="color: #0D1517;">
+Minimalist ngunit functional ang native app: push-notification para sa cash-out, Face ID/Touch ID login, mabilis na dokumento verification.
+</p>	
+            <h2 class="fw-800 mb-15px lg-w-80 md-w-100" style="color: #0D1517;">Ekosistemang affiliate</h2>   
+<p style="color: #0D1517;">
+Nakakakuha ang mga webmaster ng hanggang 40 % RevShare, eksklusibong CPA deal at deep analytics tool. Ilang oras lang ang approval.
+</p>	
+            <h2 class="fw-800 mb-15px lg-w-80 md-w-100" style="color: #0D1517;">Mga kalamangan</h2>   		
             <div class="mb-40px sm-mb-30px" style="">             
                 <div class="icon-with-text-style-08 mb-10px">
                     <div class="feature-box feature-box-left-icon-middle">
                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px  rounded-circle me-15px">
-                            <i class="fa-solid fa-check fs-15 text-base-color"></i> 
+                            <i class="fa-solid fa-check fs-15 text-base-color1"></i> 
                         </div>
                         <div class="feature-box-content"> 
-                            <span><strong>Book of Ra</strong>: Eski Mısır temalı klasik bir slot oyunu.</span>
+                            <span style="color: #0D1517;">Intuitive interface at mabilis na filter.</span>
                         </div>
                     </div>
-                </div>              
+                </div> 			
                 <div class="icon-with-text-style-08 mb-10px">
                     <div class="feature-box feature-box-left-icon-middle">
                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px  rounded-circle me-15px">
-                            <i class="fa-solid fa-check fs-15 text-base-color"></i> 
+                            <i class="fa-solid fa-check fs-15 text-base-color1"></i> 
                         </div>
                         <div class="feature-box-content"> 
-                            <span><strong>Gonzo’s Quest</strong>: İlginç bonus özellikleri sunan bir macera slotu.</span>
+                            <span style="color: #0D1517;">Cashback system sa casino at libreng taya sa aktibidad.</span>
                         </div>
                     </div>
                 </div>                 
                 <div class="icon-with-text-style-08 mb-10px">
                     <div class="feature-box feature-box-left-icon-middle">
                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px  rounded-circle me-15px">
-                            <i class="fa-solid fa-check fs-15 text-base-color"></i> 
+                            <i class="fa-solid fa-check fs-15 text-base-color1"></i> 
                         </div>
                         <div class="feature-box-content"> 
-                            <span><strong>Mega Moolah</strong>: Büyük miktarlarda kazanç sağlayan bir progresif jackpot slotu.</span>
+                            <span style="color: #0D1517;">Multilingual na support 24/7.</span>
                         </div>
                     </div>
-                </div>  			
+                </div>  
+				
             </div>
         </div>
     </div>
 </div>
+</section>
 
-</section> 
-
-
-<section class="cover-background" style="background-image: url('{{ media['user://themes/quark/jpg/bg-2.jpg'].url()|raw }}');">
-<div class="container">
+<section class="cover-background" style="background-color: #0D1517;">
+    <div class="container">
     <div class="row text-justify mb-3">
-        <div class="col">
-                <h2 class="fw-800 mb-10px" >YoHoHo Partner Programı</h2>                
- <p >YoHoHo ayrıca, yeni oyuncular çekerek para kazanmanızı sağlayan cazip bir partner programı sunmaktadır. Partnerler, yönlendirdikleri oyunculardan elde edilen gelirden %40’a kadar pay alabilirler ve gerçek zamanlı istatistiklere ve kişisel destek hizmetine erişim sağlarlar.</p>
-    <ul>
-        <li><strong>Hızlı ödemeler</strong>: Haftalık ödemeler, $30’dan başlayan tutarlarla yapılmaktadır.</li>
-        <li><strong>Avantajlı komisyonlar</strong>: Yönlendirdiğiniz oyunculardan %40’a kadar gelir payı.</li>
-        <li><strong>Promo malzemeleri</strong>: 1000'den fazla promo materyali partnerler için sunulmaktadır.</li>
-        <li><strong>Çok dilli destek</strong>: 49 dilde destek sağlanmaktadır.</li>
-    </ul>
-
-	<h3>YoHoHo'yu Neden Seçmelisiniz?</h3>
-    <p>YoHoHo, bir dizi avantajla rakiplerinden ayrılmaktadır:</p>
-    <ul>
-        <li><strong>Güvenlik ve güvenilirlik</strong>: Tüm işlemler şifreleme ile korunmakta ve kullanıcı verileri güvence altına alınmaktadır.</li>
-        <li><strong>Basit arayüz</strong>: Site kullanıcı dostudur ve mobil uygulama ile bahis yapma imkânı sunar.</li>
-        <li><strong>Birçok dil desteği</strong>: Hizmet, 49 dilde sunulmakta ve bu da dünya çapındaki kullanıcılar için rahatlık sağlamaktadır.</li>
-        <li><strong>Geniş bahis yelpazesi</strong>: Spor etkinliklerinden e-spora ve casino oyunlarına kadar geniş bir bahis yelpazesi sunulmaktadır.</li>
-    </ul>
-
-    <p>Daha fazla bilgi için resmi web sitesini ziyaret edin: <a href="https://yohoho.bet">YoHoHo.bet</a></p>
-
-
+        <div class="col">               
+<p>Pinigilan ng YoHoHo.bet ang malakas na bookmaker line, elitistang casino at advanced mobile solution. Isama pa ang mapagkakakitang affiliate program — makakakuha ka ng platapormang mahusay para sa paglalaro at pag-earn.</p>
+			  <div class="header-button">
+                    <a href="https://yohoho.bet/" class="btn btn-small btn-base-color btn-rounded btn-box-shadow btn-switch-text">
+                        <span>
+                            <span class="btn-double-text" data-text="ngayon na!">pumunta ka</span>
+                        </span>
+                    </a> 
+                </div>
         </div>
     </div>                
 </div>
-
-
 </section>
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
